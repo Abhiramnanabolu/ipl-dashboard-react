@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.teamcardli {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+  background-color: #ffffff33;
+  height: 100px;
+  width: 300px;
+  font-size: 12px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.teamimg {
+  width: 20%;
+  margin-right: 10px;
+}
+.item-link {
+  color: inherit; /* Use the color from the parent element */
+  text-decoration: none; /* Remove underline */
+}

@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.teammaindiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  width: 100vw;
+  min-height: 100vh;
+  background-size: cover;
+  color: white;
+}
+.teambanner {
+  width: 50%;
+  margin: 10px;
+}
+.divleftalign {
+  width: 50%;
+  text-align: left;
+  margin-top: -15px;
+}
+.mcmaindivrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 50%;
+}

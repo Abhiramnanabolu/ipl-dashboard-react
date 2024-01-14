@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.latestmaindiv {
+  background-color: #1e293b;
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 50%;
+  padding-bottom: 10px;
+}
+.div1 {
+  width: 35%;
+  text-align: left;
+}
+.div2 {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.div3 {
+  width: 35%;
+  text-align: right;
+}
+.p1 {
+  margin: 0px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.p2 {
+  margin: 0px;
+  font-size: 14px;
+  margin-top: 5px;
+}
